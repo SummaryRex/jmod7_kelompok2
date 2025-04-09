@@ -4,14 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-         /*var data = new DataMahasiswa103022300084();
-         data.ReadJSON(*/
-
-        /*var kuliah = new KuliahMahasiswa103022300084();
-        kuliah.ReadJSON();*/
-
         DataMahasiswa103022300084.ReadJSON();
-        
-        /*KuliahMahasiswa103022300084.ReadJSON();*/
+        Console.WriteLine();
+
+        var member = new TeamMembers103022300084();
+        member.ReadJSON();
     }
 }
