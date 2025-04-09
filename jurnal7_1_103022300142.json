@@ -1,0 +1,15 @@
+{
+   "firstName": "m.",
+   "lastName": "tahtafaiz madani",
+   "gender": "nonbinary",
+   "age": 19,
+   "address": {
+       "streetAddress": "sukapura",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2B3", "name": "Arsitektur dan Desain Perangkat Lunak" }
+   ]
+}
