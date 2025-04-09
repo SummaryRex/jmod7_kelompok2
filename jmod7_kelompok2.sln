@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jmod7_kelompok2", "jmod7_kelompok2.csproj", "{B8EE763C-6AA9-4C34-88E0-96E8756D07FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8EE763C-6AA9-4C34-88E0-96E8756D07FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EE763C-6AA9-4C34-88E0-96E8756D07FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EE763C-6AA9-4C34-88E0-96E8756D07FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EE763C-6AA9-4C34-88E0-96E8756D07FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D67DD8F-B086-4A21-A33C-83C7629B5F39}
+	EndGlobalSection
+EndGlobal
