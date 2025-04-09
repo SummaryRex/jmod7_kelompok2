@@ -9,5 +9,10 @@ class Program
 
         var member = new TeamMembers103022300084();
         member.ReadJSON();
+        Console.WriteLine();
+
+        GlossaryItem103022300084.ReadJSON();
+
+
     }
 }
