@@ -3,6 +3,6 @@ class program
 {
     static void Main(String[] args)
     {
-        DataMahasiswa103022300125.readJSON();
+        TeamMembers103022300125.readJSON();
     }
 }
